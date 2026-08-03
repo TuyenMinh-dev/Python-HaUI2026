@@ -1,0 +1,9 @@
+lop,id,ten,diem_cc,diem_kt,diem_thi
+10A,SV01,Nguyen Van An,8.0,7.5,9.0
+10A,SV02,Tran Thi Binh,6.0,5.0,4.0
+10A,SV03,Le Van Chi,9.0,8.5,9.5
+10B,SV04,Pham Thi Dung,5.0,4.5,5.0
+10B,SV05,Hoang Van E,7.0,6.0,6.5
+10B,SV06,Vo Thi Phuong,9.5,9.0,8.5
+10C,SV07,Dang Van Giang,4.0,3.5,3.0
+10C,SV08,Bui Thi Ha,8.2,7.8,8.0

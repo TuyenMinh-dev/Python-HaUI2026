@@ -58,7 +58,7 @@ def cap_nhat(ds_sv):
 def hien_thi_list(ds_sv,tieu_de):
     print(f"\n {tieu_de}")
     for sv in ds_sv:
-        print(f"{sv['id']} - {sv['ten']} | Tong ket: {sv['diem_tk']} | Xep loai: {sv['xep_loai']}")
+        print(f"{sv['id']} - {sv['ten']} | Tong ket: {sv['diem_tk']:.2f} | Xep loai: {sv['xep_loai']}")
 
 def hien_thi_dict(ds,tieu_de):
     print(f"\n {tieu_de}")
